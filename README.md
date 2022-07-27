@@ -1,6 +1,6 @@
 
 ![vangogh_Prancheta 1](https://user-images.githubusercontent.com/57491372/181248052-6c9dd715-d1a8-4ee6-9a03-4aa2bd552552.jpg)
-![teste gif](https://giphy.com/gifs/vincent-van-gogh-1889-la-nuit-toile-TF5O9coaPtg64NulVu)
+![teste gif]([https://giphy.com/gifs/vincent-van-gogh-1889-la-nuit-toile-TF5O9coaPtg64NulVu](https://giphy.com/gifs/vincent-van-gogh-1889-la-nuit-toile-TF5O9coaPtg64NulVu/giphy.gif))
 ### Bem vindo ao meu cantinho, aceitaria uma xícara de café ? 👋
 
 <!--
