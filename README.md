@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![vangogh_Prancheta 1](https://user-images.githubusercontent.com/57491372/181248052-6c9dd715-d1a8-4ee6-9a03-4aa2bd552552.jpg)
+
+### Bem vindo ao meu cantinho, aceitaria uma xícara de café ? 👋
 
 <!--
 **robson1622/robson1622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
