@@ -13,5 +13,5 @@
 ![Sistema Solar](https://github.com/robson1622/SistemaSolar) é um projeto pessoal que representa nosso lar (sistema solar) que desenvolvi para adiquirir amiliaridade com python. <br>
 ![Jogo - Among Us Pirata](https://github.com/robson1622/AmongUsPirata) Esse foi o jogo desenvolvido como avaliação parcial orientado a matéria Técnicas de Programação.<br>
 ![Art ](https://github.com/robson1622/Art) este é as artes gráficas (ou não) que mais gostei de fazer e/ou do resultado.<br>
-![Estabilizador de dois eixos ](https://github.com/ratatusznei/gimbal-EEX21) foi um projeto desenvolvido para a matéria de Oficinas de Integração 1, onde o objetivo era integrar o m 
+![Estabilizador de dois eixos ](https://github.com/ratatusznei/gimbal-EEX21) foi um projeto desenvolvido para a matéria de Oficinas de Integração 1, onde o objetivo era integrar o máximo de conhecimentos aprendidos at
 Um cheiro, fica bem.
