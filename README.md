@@ -10,6 +10,7 @@
 - ⚡ Não te banharás 2x no mesmo rio.
 
 # Orientações : 
+[SOYA](https://tungsten-tent-1b1.notion.site/SOYIA-Automated-Soybean-Grain-Classifier-1c556ce548608082b90ac6f8ebbbc345) é um sistema automático de classificação de soja que utiliza visão computacional e IA convolucional para fazer inferências.
 [Sistema Solar](https://github.com/robson1622/SistemaSolar) é um projeto pessoal que representa nosso lar (sistema solar) que desenvolvi para adiquirir familiaridade com python. <br>
 [Jogo - Among Us Pirata](https://github.com/robson1622/AmongUsPirata) Esse foi o jogo desenvolvido como avaliação parcial orientado a matéria Técnicas de Programação.<br>
 [Art ](https://github.com/robson1622/Art) este é as artes gráficas (ou não) que mais gostei de fazer e/ou do resultado.<br>
