@@ -7,7 +7,7 @@
 - 🌱 Cursando Engenharia de computação na UTFPR.
 - 💬 Curioso por filosofia.
 - 📫 robsan@alunos.utfpr.edu.br
-- ⚡ Não tebanharás 2x no mesmo rio.
+- ⚡ Não te banharás 2x no mesmo rio.
 
 # Orientações : 
 [Sistema Solar](https://github.com/robson1622/SistemaSolar) é um projeto pessoal que representa nosso lar (sistema solar) que desenvolvi para adiquirir familiaridade com python. <br>
